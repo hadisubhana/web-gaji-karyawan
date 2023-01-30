@@ -1,0 +1,21 @@
+
+website ini diperlukan internet karena sudah bawaan template.
+
+database config
+database : karyawan
+username : root
+password : 
+host     : localhost
+
+
+untuk akun admin :
+email : hadi@admin.com
+pass : 123
+
+
+untuk akun karyawan :
+email : bambang@gmail.com
+pass : 123.
+
+
+jika ingin membuat akun baru bisa buat akun lewat form sign up.
